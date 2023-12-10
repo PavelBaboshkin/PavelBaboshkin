@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pasha
 - 👀 I’m interested in Business/Data analysis .
-- 📫 How to reach me tg @cryptonezzz
+- 📫 How to reach me [telegram](https://t.me/BaboshkinPavel)
 
 <!---
 PavelBaboshkin/PavelBaboshkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
